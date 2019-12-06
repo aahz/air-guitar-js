@@ -1,5 +1,6 @@
 {
   "name": "air-guitar",
+  "private": true,
   "version": "0.0.0",
   "description": "Air Guitar project.",
   "main": "main.js",

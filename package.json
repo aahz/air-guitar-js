@@ -1,9 +1,11 @@
 {
   "name": "air-guitar",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Air Guitar project.",
-  "main": "index.js",
-  "scripts": {},
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aahz/air-guitar-js.git"
@@ -17,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/aahz/air-guitar-js/issues"
   },
-  "homepage": "https://github.com/aahz/air-guitar-js#readme"
+  "homepage": "https://github.com/aahz/air-guitar-js#readme",
+  "dependencies": {
+    "electron": "7.1.3"
+  }
 }

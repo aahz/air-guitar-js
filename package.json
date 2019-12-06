@@ -1,0 +1,21 @@
+{
+  "name": "air-guitar",
+  "version": "1.0.0",
+  "description": "Air Guitar project.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aahz/air-guitar-js.git"
+  },
+  "author": "Artem Valitov",
+  "contributors": [
+    "Artem Valitov",
+    "Andrei Ozdon <aahzzyy@gmail.com>"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aahz/air-guitar-js/issues"
+  },
+  "homepage": "https://github.com/aahz/air-guitar-js#readme"
+}
